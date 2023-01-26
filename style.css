@@ -1,0 +1,61 @@
+
+body{
+    background-image: url(https://c.ndtvimg.com/2020-09/sub1n9p8_royal-challengers-bangalore_625x300_16_September_20.jpg);
+    background-size: cover;
+
+    
+}
+
+.container{
+    width: 400px;
+    height: 350px;
+    margin:  auto  ;
+    margin-top: 10px;
+    margin-right: 200px;
+}
+   .profile img{
+    width: 130px;
+    height: 100px;
+    margin: 10px 0 0 40px;
+    
+   }
+   img{
+    border-radius: 100px;
+    
+   }
+
+   h2{
+    color: pink;
+    margin-left: 50px;
+   }
+   p{
+    color: white;
+   }
+   h1{
+    font-size: 25px;
+    color:palevioletred;
+    
+   }
+   h3{
+    color: aqua;
+   }
+   b{
+    color: white;
+    font-size: 25px;
+   }
+   h4{
+    font-size: 20px;
+    color:white;
+    margin-top: 180px;
+    margin-left: 100px;
+   }
+   .logo{
+    width: 400px;
+    margin-right: 10px;
+   }
+   
+   .insta{
+    width:40px;
+    height: 30px;
+    margin-left: 100px;
+   }
